@@ -1,0 +1,17 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-audio-1 {
+  width: 500px;
+  margin-bottom: 60px;
+  background-image: none;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-audio-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
